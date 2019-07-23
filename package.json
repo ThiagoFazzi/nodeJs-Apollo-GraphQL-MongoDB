@@ -1,0 +1,9 @@
+{
+  "name": "nodeJs-Apollo-GraphQL-MongoDB",
+  "version": "1.0.0",
+  "description": "NodeJs project to connect graphQL through apollo at MongoDB",
+  "main": "index.js",
+  "repository": "git@github.com:ThiagoFazzi/nodeJs-Apollo-GraphQL-MongoDB.git",
+  "author": "ThiagoFazzi <thiago@xtwo.com.br>",
+  "license": "MIT"
+}
